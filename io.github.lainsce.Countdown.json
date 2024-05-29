@@ -1,7 +1,7 @@
 {
     "app-id" : "io.github.lainsce.Countdown",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "44",
+    "runtime-version" : "46",
     "sdk" : "org.gnome.Sdk",
     "command" : "io.github.lainsce.Countdown",
     "rename-icon" : "io.github.lainsce.Countdown",
@@ -33,6 +33,10 @@
                     "type" : "archive",
                     "url" : "https://github.com/lainsce/countdown/archive/1.0.4.zip",
                     "sha256" : "03cb44ed064f647f03e6f485fff46f2a761c1fd66f1aaf3e31d4eecc14ec8591"
+                },
+                {
+                    "type" : "patch",
+                    "path" : "fix_appdata.patch"
                 }
             ]
         }

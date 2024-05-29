@@ -1,0 +1,16 @@
+diff --git a/data/io.github.lainsce.Countdown.metainfo.xml.in b/data/io.github.lainsce.Countdown.metainfo.xml.in
+index 811f6ac..5d346f4 100644
+--- a/data/io.github.lainsce.Countdown.metainfo.xml.in
++++ b/data/io.github.lainsce.Countdown.metainfo.xml.in
+@@ -19,7 +19,7 @@
+     <developer_name translatable="no">Lains</developer_name>
+     <url type="homepage">https://github.com/lainsce/Countdown/</url>
+     <url type="bugtracker">https://github.com/lainsce/Countdown/issues</url>
+-    <url type="donation">https://www.ko-fi.com/lainsce/</url>
++    <url type="vcs-browser">https://github.com/lainsce/Countdown/</url>
+     <url type="translate">https://github.com/lainsce/Countdown/blob/master/po/README.md</url>
+     <screenshots>
+         <screenshot type="default">
+--
+libgit2 1.7.2
+
