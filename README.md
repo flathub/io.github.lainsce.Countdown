@@ -21,7 +21,3 @@ flatpak run io.github.lainsce.Countdown
 git clone git@github.com:flathub/io.github.lainsce.Countdown.git
 flatpak run org.flatpak.Builder build-dir --user --ccache --force-clean --install io.github.lainsce.Countdown.json
 ```
-
----
-
-**Technologies**: GNOME, GTK4, Libadwaita, Vala
